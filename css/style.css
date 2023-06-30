@@ -182,3 +182,17 @@ img {
     }
 
  }
+
+ /* Bonus da 768px a 1160px */
+
+ @media screen and (min-width:768px) and (max-width:1160px){
+    
+    body{
+        overflow-x: hidden;
+    }
+
+    .container{
+        width: 100%;
+    }
+ }
+
